@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-item a{
+    color: black;
+    font-weight: 700;
+}
+.header-background{
+    background-color: #FFFBF0 ;
+}
+.img-size{
+    width: 100%;
+}
+.btn-highlight{
+    background-color: #A4BC46;
+    padding: 20px 40px;
+    border: 0;
+    
+}
+.head-font{
+    font-size: 60px;
+}
+.orange-color{
+    color: #FAC03B;
+}
+.notification{
+    height: 100px;
+    background-color: #FFFBF0;
+}
+.notification input{
+    height: 40px;
+    width: 200px;
+   
+}
+.notification button{
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color:  #A4BC46 ;
+    color: white;
+
+}
